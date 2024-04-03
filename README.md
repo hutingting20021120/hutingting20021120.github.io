@@ -15,7 +15,7 @@
 <h2>第二次作业（详细说明介绍放在了链接页面中）</h2>
 <h3>作业1</h3>
 <p>用html5表单模拟搜索引擎练习。</p>
-<p><a href="https://hutingting20021120.github.io/somao/somao.html">搜猫搜索</p>
+<p><a href="https://hutingting20021120.github.io/somao/somao.html">搜猫搜索</a></p>
 <h3>作业2</h3>
 <p>人物共现图绘制及教程网页的制作。</p>
-<p><a href="https://hutingting20021120.github.io/normalworld/normalworld.html">基于Python提取《平凡的世界》人物关系并绘制共现图</p>
+<p><a href="https://hutingting20021120.github.io/normalworld/normalworld.html">基于Python提取《平凡的世界》人物关系并绘制共现图</a></p>

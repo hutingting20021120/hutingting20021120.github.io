@@ -19,3 +19,6 @@
 <h3>作业2</h3>
 <p>人物共现图绘制及教程网页的制作。</p>
 <p><a href="https://hutingting20021120.github.io/normalworld/normalworld.html">基于Python提取《平凡的世界》人物关系并绘制共现图</a></p>
+<h2>第三次作业</h2>
+<p>哔哩哔哩评论区爬虫及可视化</p>
+<a href="https://hutingting20021120.github.io/bilibili_comment_crawl/web/index.html">可视化展示</a>
